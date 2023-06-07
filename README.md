@@ -131,9 +131,15 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 ### simulation
 
 
+![kinematics_img](https://github.com/pradeepasri26/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433142/2a535eae-452b-40a5-b8bf-8e9899c8a946)
+![image](https://github.com/pradeepasri26/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433142/3c205945-58d7-47cd-93f0-5cfd997c3c34)
+![image](https://github.com/pradeepasri26/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/131433142/2a24e27c-ada0-41e7-a8a7-6e13f54fc735)
+
+
 
 
 
 ### Results of simulation 
+An environment for welding operation using robodk is Designed & simulated
 
 
